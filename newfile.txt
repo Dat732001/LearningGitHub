@@ -2,3 +2,6 @@ Hello John
 This is second commit "Main branch"
 
 This is third commit "Branch_01"
+
+=============== Clone reposition ===============
+make a first commit
